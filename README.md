@@ -1,2 +1,2 @@
 # EasySplit
- Trabalho da FIAP
+ Projeto de desenvolvimento de fintech para a FIAP
